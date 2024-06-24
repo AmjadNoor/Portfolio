@@ -1,0 +1,46 @@
+* {
+  font-family: 'Raleway', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: black;
+  color: #ffffff;
+}
+
+#header {
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#APJ-image {
+  margin-top: 7%;
+  border-top: #ffffff 5px solid;
+  border-left: #FF9933 5px solid;
+  border-bottom: #ffffff 5px solid;
+  border-right: #138808 5px solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#Personal-Details {
+  margin: 3% 10%;
+}
+
+li {
+  margin-top: 2%;
+}
+
+#Awards {
+  margin: 5% 10%;
+}
+
+h3 {
+  margin: 5%;
+}
